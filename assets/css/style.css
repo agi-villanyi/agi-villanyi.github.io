@@ -14,3 +14,11 @@ a:hover {
 a:visited {
   color: #ed0060db;
 }
+
+header img[alt="Logo"] {
+  width: 160px;
+  height: 160px;      /* make it a square */
+  border-radius: 50%; /* circle */
+  object-fit: cover;  /* crop instead of squish */
+  display: block;
+}

@@ -3,15 +3,14 @@
 
 @import "{{ site.theme }}";
 
-/* Your overrides go *after* the import */
 a {
-  color: #e83e8c;
+  color: #ed0060db;
 }
 
 a:hover {
-  color: #c2185b;
+  color: #ed0060db;
 }
 
 a:visited {
-  color: #6f42c1;
+  color: #ed0060db;
 }
